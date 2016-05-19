@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='2016-05-19-205638.jpg'>
+    <box top='186' left='766' width='233' height='199'>
+      <part name='0' x='778' y='255'/>
+      <part name='1' x='923' y='225'/>
+      <part name='2' x='832' y='282'/>
+      <part name='3' x='882' y='279'/>
+      <part name='4' x='846' y='257'/>
+      <part name='5' x='854' y='255'/>
+      <part name='6' x='851' y='313'/>
+      <part name='7' x='902' y='359'/>
+      <part name='8' x='895' y='374'/>
+      <part name='9' x='872' y='379'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205644.jpg'>
+    <box top='320' left='665' width='240' height='183'>
+      <part name='0' x='671' y='401'/>
+      <part name='1' x='836' y='337'/>
+      <part name='2' x='744' y='406'/>
+      <part name='3' x='806' y='393'/>
+      <part name='6' x='782' y='438'/>
+      <part name='4' x='757' y='383'/>
+      <part name='5' x='766' y='379'/>
+      <part name='7' x='841' y='456'/>
+      <part name='8' x='842' y='478'/>
+      <part name='9' x='830' y='489'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205706.jpg'>
+    <box top='62' left='744' width='149' height='173'>
+      <part name='0' x='768' y='131'/>
+      <part name='1' x='884' y='107'/>
+      <part name='2' x='803' y='151'/>
+      <part name='3' x='850' y='136'/>
+      <part name='4' x='825' y='129'/>
+      <part name='5' x='832' y='128'/>
+      <part name='6' x='836' y='172'/>
+      <part name='7' x='849' y='186'/>
+      <part name='8' x='856' y='200'/>
+      <part name='9' x='854' y='215'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205716.jpg'>
+    <box top='305' left='563' width='205' height='198'>
+      <part name='0' x='676' y='404'/>
+      <part name='1' x='765' y='378'/>
+      <part name='2' x='685' y='416'/>
+      <part name='3' x='729' y='410'/>
+      <part name='4' x='714' y='400'/>
+      <part name='5' x='721' y='400'/>
+      <part name='6' x='711' y='443'/>
+      <part name='8' x='718' y='470'/>
+      <part name='7' x='714' y='460'/>
+      <part name='9' x='713' y='485'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205722.jpg'>
+    <box top='243' left='262' width='338' height='364'>
+      <part name='0' x='266' y='349'/>
+      <part name='1' x='588' y='388'/>
+      <part name='2' x='367' y='426'/>
+      <part name='3' x='474' y='442'/>
+      <part name='4' x='425' y='394'/>
+      <part name='5' x='443' y='398'/>
+      <part name='6' x='419' y='494'/>
+      <part name='7' x='457' y='539'/>
+      <part name='8' x='455' y='570'/>
+      <part name='9' x='442' y='590'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205730.jpg'>
+    <box top='52' left='177' width='306' height='276'>
+      <part name='0' x='225' y='103'/>
+      <part name='1' x='481' y='92'/>
+      <part name='2' x='306' y='164'/>
+      <part name='3' x='410' y='146'/>
+      <part name='4' x='358' y='122'/>
+      <part name='5' x='374' y='123'/>
+      <part name='6' x='379' y='212'/>
+      <part name='7' x='405' y='250'/>
+      <part name='8' x='414' y='271'/>
+      <part name='9' x='408' y='299'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205739.jpg'>
+    <box top='81' left='552' width='411' height='422'>
+      <part name='0' x='565' y='120'/>
+      <part name='1' x='943' y='244'/>
+      <part name='2' x='656' y='220'/>
+      <part name='3' x='780' y='300'/>
+      <part name='4' x='732' y='214'/>
+      <part name='5' x='750' y='218'/>
+      <part name='6' x='681' y='343'/>
+      <part name='7' x='732' y='446'/>
+      <part name='8' x='717' y='479'/>
+      <part name='9' x='683' y='488'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205748.jpg'>
+    <box top='197' left='591' width='219' height='251'>
+      <part name='0' x='603' y='253'/>
+      <part name='1' x='763' y='241'/>
+      <part name='2' x='651' y='286'/>
+      <part name='3' x='715' y='297'/>
+      <part name='4' x='678' y='264'/>
+      <part name='5' x='686' y='264'/>
+      <part name='6' x='669' y='330'/>
+      <part name='7' x='721' y='384'/>
+      <part name='8' x='706' y='400'/>
+      <part name='9' x='686' y='408'/>
+    </box>
+  </image>
+  <image file='2016-05-19-205754.jpg'>
+    <box top='392' left='194' width='201' height='209'>
+      <part name='0' x='207' y='510'/>
+      <part name='1' x='322' y='410'/>
+      <part name='2' x='269' y='505'/>
+      <part name='3' x='319' y='470'/>
+      <part name='4' x='271' y='474'/>
+      <part name='5' x='281' y='469'/>
+      <part name='6' x='304' y='519'/>
+      <part name='7' x='375' y='515'/>
+      <part name='8' x='374' y='548'/>
+      <part name='9' x='360' y='560'/>
+    </box>
+  </image>
+</images>
+</dataset>
